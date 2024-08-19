@@ -134,3 +134,7 @@ while True:
     else:
         newCalculator = Calculator(expression)
         print(f"Result: {newCalculator.evaluatePostfix()}\n")
+
+#ToDo:
+#-fix percent function
+#-correct output for expression with single number digit and operation symbol
